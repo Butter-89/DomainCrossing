@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DomainCrossing.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\DomainCrossingEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossing.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossingCharacter.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossingGameMode.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossing.init.gen.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossingCharacter.gen.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\DomainCrossingGameMode.gen.cpp.obj"
+"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\Default.rc2.res"
+/OUT:"E:\Unreal Projects\DomainCrossing\Intermediate\Build\Win64\UE4Editor\Development\DomainCrossing\UE4Editor-DomainCrossing.lib"
+/INCLUDE:IMPLEMENT_MODULE_DomainCrossing
